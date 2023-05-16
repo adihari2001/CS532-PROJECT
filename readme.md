@@ -4,7 +4,9 @@ Environment Required to run:
 
 Google Colab (easier to install specific versions)
 
-1. Installation Steps:
+1. For downloading IMDB Dataset.csv, refer to : https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
+
+2. Installation Steps:
 
     1. !pip3 install pyspark==3.2.4 nltk pyenchant
 
@@ -15,9 +17,9 @@ Google Colab (easier to install specific versions)
 
     3. !apt-get install -y enchant
 
-2. Training and Evaluation of Naive Bayes Classifier:
+3. Training and Evaluation of Naive Bayes Classifier:
 
         !python main.py
 
-3. Please refer to source_code/532_project.ipynb for Demo, Evaluation and Test cases.
+4. Please refer to source_code/532_project.ipynb for Demo, Evaluation and Test cases.
 
